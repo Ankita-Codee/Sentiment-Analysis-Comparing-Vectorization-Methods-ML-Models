@@ -1,1 +1,1 @@
-# Sentiment-Analysis-Comparing-Vectorization-Methods-ML-Models
+# Sentiment Analysis: Comparing Vectorization Methods and ML Models
